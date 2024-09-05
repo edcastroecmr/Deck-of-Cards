@@ -1,0 +1,12 @@
+body{
+    height: 97vh;
+    background-image: url(./background.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#button{
+    margin-top: 25px;
+}
